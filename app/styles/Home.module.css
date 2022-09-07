@@ -1,6 +1,6 @@
 @font-face {
   font-family: Quicksand;
-  src:url("../../public/Quicksand-Regular.ttf") format("truetype");
+  src:url("/Quicksand-Regular.ttf") format("truetype");
 }
 
 html,
